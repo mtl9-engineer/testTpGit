@@ -1,2 +1,4 @@
 '\begin{document}' 
 '\begin{article}' 
+'my project' 
+'\end{document}' 
